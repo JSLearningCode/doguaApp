@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #DDD;
+    height: 60px;
+    padding-top: 10px;
+    font-size: 28pt;
+    margin-bottom: 10px;
+}
+
+#l_produtos {
+    position: absolute;
+    left: 460px;
+    top: 100px;
+    width: 900px;
+    height: 400px;
+    text-align: center;
+    font-size: 24pt; 
+    text-align: center;
+    background-color: #DDD;
+}
+
+#subtotal {
+    position:absolute;
+    left: 460px;
+    top: 515px;
+    width: 900px;
+    height: 100px;
+    text-align: center;
+    font-size: 24pt;
+    background-color: #DDD;
+    text-align: center;
+}
+
+#total {
+    position:absolute;
+    left: 910px;
+    top: 630px;
+    width: 445px;
+    height: 80px;
+    background-color: #DDD;
+    text-align: center;
+    font-size: 22pt;
+    padding-bottom: 20px;
+}
+
+#troco {
+    position:absolute;
+    left: 460px;
+    top: 630px;
+    height: 80px;
+    width: 440px;
+    background-color: #DDD; 
+    text-align: center;
+    font-size: 22pt;
+    padding-bottom: 20px;
+}

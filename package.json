@@ -1,0 +1,14 @@
+{
+  "name": "doguaApp",
+  "version": "1.0.0",
+  "description": "First Example App with Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "William Souza",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^12.0.0"
+  }
+}
